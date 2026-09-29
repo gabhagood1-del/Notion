@@ -4,7 +4,7 @@
    The order below is the display order. Filters are generated automatically.
    Optional fields can be empty strings. See README.md for a complete guide. */
 window.CAROUSEL_CONTENT = {
-  eyebrow: "Sustainability Fellowship",
+  eyebrow: "Department of Geosciences",
   title: "A community of possibility.",
   intro: "People, ideas, and next steps toward a more sustainable world.",
   showFilters: true,
